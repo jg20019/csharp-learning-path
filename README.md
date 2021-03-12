@@ -43,3 +43,9 @@ A list of topics to learn in C#
 * Generics
 * Iterators
 * Delegates and Events
+
+### ASP.NET 
+* Blazor
+* Razor 
+* Entity Framework
+* MVC with ASP.NET
